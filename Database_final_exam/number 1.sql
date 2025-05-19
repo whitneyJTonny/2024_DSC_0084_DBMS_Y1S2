@@ -15,10 +15,6 @@ SELECT student_name, student_id, Year, tuition_fee
 FROM Finance
 WHERE tuition_fee >= 30000;
 
--- No.iv)
-SELECT *
- FROM 
-
 -- No.v)
 UPDATE student
 SET student_name = 'Nelson'
